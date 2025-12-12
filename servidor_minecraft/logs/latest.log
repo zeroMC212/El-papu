@@ -1,0 +1,36 @@
+[23:48:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:48:04] [ServerMain/INFO]: No existing world data, creating new world
+[23:48:05] [ServerMain/INFO]: Loaded 1407 recipes
+[23:48:05] [ServerMain/INFO]: Loaded 1520 advancements
+[23:48:05] [Server thread/INFO]: Starting minecraft server version 1.21.6
+[23:48:05] [Server thread/INFO]: Loading properties
+[23:48:05] [Server thread/INFO]: Default game type: SURVIVAL
+[23:48:05] [Server thread/INFO]: Generating keypair
+[23:48:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:48:05] [Server thread/INFO]: Using epoll channel type
+[23:48:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:48:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:48:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:48:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:48:05] [Server thread/INFO]: Preparing level "world"
+[23:48:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:48:12] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:48:12] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:48:13] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[23:48:13] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[23:48:14] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[23:48:14] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[23:48:15] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[23:48:15] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[23:48:16] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[23:48:16] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[23:48:17] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[23:48:17] [Server thread/INFO]: Time elapsed: 5027 ms
+[23:48:17] [Server thread/INFO]: Done (11.958s)! For help, type "help"
+[23:48:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:48:46] [Server thread/INFO]: <--[HERE]
+[23:48:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:48:49] [Server thread/INFO]: <--[HERE]
+[23:48:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:48:52] [Server thread/INFO]: 1<--[HERE]
+[23:49:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
